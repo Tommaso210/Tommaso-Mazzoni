@@ -1,1 +1,49 @@
+h1 {
+  margin: 0;
+  padding: 50px 0;    
+  color:#515737 ;
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #CEF62C ;
+}
+
+body {
+  width: 900px;
+  margin: 0 auto;
+  background-color:#00539F ;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+h2 {
+  margin: 0;
+  padding: 30px 0;    
+  color: #515737;
+  text-shadow: 1px 1px 1px black;
+  text-align: center;
+}
+
+
+li {
+  font-size: 20px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
 
